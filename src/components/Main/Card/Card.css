@@ -1,0 +1,9 @@
+img{
+    height: 350px;
+    width: 350px;
+}
+
+#divCard{
+    border: 1px solid black;
+    width: 450px;
+}
